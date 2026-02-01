@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 body {
   margin: 0;
   font-family: "Segoe UI", sans-serif;
@@ -84,7 +84,7 @@ li {
   from { transform: scale(0.7); opacity: 0; }
   to { transform: scale(1); opacity: 1; }
 }
-=======
+
 body {
   margin: 0;
   font-family: "Segoe UI", sans-serif;
@@ -170,4 +170,4 @@ li {
   from { transform: scale(0.7); opacity: 0; }
   to { transform: scale(1); opacity: 1; }
 }
->>>>>>> 1789190d174122b7d13fd436ca2444a71b2fe9da
+
